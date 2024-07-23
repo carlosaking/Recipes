@@ -1,7 +1,7 @@
 # Recipe App
 
 ## Dark Mode
-![](dark_mode)
+![](dark_mode.png)
 
 ## Light Mode
-![](light_mode)
+![](light_mode.png)
